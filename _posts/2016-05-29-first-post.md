@@ -11,9 +11,6 @@ Blogging was something I've had at the back of my mind for quite a while. Docume
 
 ![Instant Gratification Monkey](/img/ins_gratif_monkey.png)
 
-{:.img-caption}
-*Caption*
-
 However, it still begs the question, why now? After certifying myself as a procrastinator according to this [TED speaker, Tim Urban](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator?language=en), and reading his post on [how to remedy it](http://waitbutwhy.com/2013/11/how-to-beat-procrastination.html). Maintaining a blog seemed to be the best way forward; the benefits being two fold. First, it provides pseudo deadlines. Too long without a blog post should arouse the Panic Monster. Second, it provides direction. I find myself in the rut of coursework more often than I'd like. The pursuit of something blog-worthy ought to be the best motivation.
 
 Now that I have my guidelines established, it's time to get to work.
